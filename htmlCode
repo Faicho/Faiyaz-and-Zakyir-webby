@@ -7,11 +7,8 @@
 <script src="demo_script_src.js">
 </script>
 
-<<<<<<< HEAD
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Change it!</button>
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>JavaScript can change HTML content.</button>
 
-=======
->>>>>>> 57e13516404ac4148746da60a86ea15c97dfc943
 </body>
 </html>
