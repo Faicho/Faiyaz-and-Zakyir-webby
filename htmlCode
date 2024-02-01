@@ -2,10 +2,7 @@
 <html>
 <body>
 
-<h2>What Can JavaScript Do?</h2>
-
-<script src="demo_script_src.js">
-</script>
+<h2 id = "demo">What Can JavaScript Do?</h2>
 
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Change it!</button>
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>JavaScript can change HTML content.</button>
